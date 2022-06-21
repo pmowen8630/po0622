@@ -5,6 +5,7 @@ June 20 2022
 
 Description:
 Java application to demo a tool rental checkout page.
+- Java 11
 - Main method is in ToolRentalApp.java
 - tools package contains abstract class Tool.java and concrete classes Ladder.java, Chainsaw.java, and Jackhammer.java
 - RentalAgreement.java contains business logic and printing methods
